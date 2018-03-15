@@ -1,3 +1,5 @@
 public Emp {
-	private String id;
+	private Integer empno;
+	private String ename;
+	private String job;
 }
